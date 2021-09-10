@@ -6,6 +6,7 @@
     "description": "descricao",
     "adapter_type": "SQL/MVC/EXECAUTO/FUNCTION/HEADER",
     "pre_validation": "",
+    "pos_validatio": "",
     "file_formatting": {
         "header": {
             "detail1": {},
